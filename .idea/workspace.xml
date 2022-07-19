@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1008c5b4-693b-4a0b-8337-76f5fbcce0e7" name="Changes" comment="" />
+    <list default="true" id="1008c5b4-693b-4a0b-8337-76f5fbcce0e7" name="Changes" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/Devper/WebCrawler/Crawler1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/WebCrawler/Crawler2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/WebCrawler/Crawler3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/commom/Apitest/request_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/commom/Apitest/request_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/commom/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/config/appInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/example/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/test_case/Apitest/test_request_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/test_case/Apitest/test_request_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/test_case/Testarithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/test_case/keepLogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tester/test_case/test_douban.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devper/WebCrawler/NewCrawlerGet1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Devper/WebCrawler/NewCrawlerGet1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/Config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytest/Sampler/Sampler1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +30,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -30,39 +55,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/haokun/PycharmProjects/Dunpai/Devper/WebCrawler"
+    "last_opened_file_path": "/Users/haokun/PycharmProjects/Dunpai/Tester/test_case/Apitest"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tester/test_case/Apitest" />
       <recent name="$PROJECT_DIR$/Devper/WebCrawler" />
+      <recent name="$PROJECT_DIR$/Tester/test_case" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tester/commom/Apitest" />
       <recent name="$PROJECT_DIR$/Tester" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NewCrawlerGet1">
-    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dunpai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/Testing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Testing/HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests in test_douban.py">
     <configuration name="NewCrawlerGet1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,10 +112,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_douban.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tester/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_douban.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_douban.MyTestCase.test_something" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tester/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_douban.MyTestCase.test_something&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_request_post.MyTestCase.test_something" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tester/test_case/Apitest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_request_post.MyTestCase.test_something&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_douban.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tester/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tester/test_case/test_douban.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_douban.py" />
+        <item itemvalue="Python tests.Python tests for test_douban.MyTestCase" />
         <item itemvalue="Python.NewCrawlerGet1" />
-        <item itemvalue="Python.HelloWorld" />
+        <item itemvalue="Python tests.Python tests for test_douban.MyTestCase.test_something" />
+        <item itemvalue="Python tests.Python tests for test_request_post.MyTestCase.test_something" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658117615594</updated>
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1658125322271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658125322271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +207,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
