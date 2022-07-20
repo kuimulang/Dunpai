@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1008c5b4-693b-4a0b-8337-76f5fbcce0e7" name="Changes" comment="第二次提交 继续学习python的爬虫和自动化测试">
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/Lesson/parametrize01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/__init__.py" afterDir="false" />
+    <list default="true" id="1008c5b4-693b-4a0b-8337-76f5fbcce0e7" name="Changes" comment="第三次提交 继续学习earnpython.org里的知识点">
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Closures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_CodeIntrospection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_MapFilterReduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_MultipleFunctionArguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Partial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Regular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Serialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/Lessons/lesson_Sets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +71,8 @@
       <recent name="$PROJECT_DIR$/Tester" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson_Classes">
-    <configuration name="lesson_Classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson_MapFilterReduce">
+    <configuration name="lesson_Closures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_Classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_Closures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_Conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_CodeIntrospection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_Conditions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_CodeIntrospection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_Decorators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_MapFilterReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_MapFilterReduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_Partial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/Lessons/lesson_Partial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson_Classes" />
-        <item itemvalue="Python.lesson_loops" />
-        <item itemvalue="Python.lesson_list" />
-        <item itemvalue="Python.lesson_Loops" />
-        <item itemvalue="Python.lesson_Conditions" />
+        <item itemvalue="Python.lesson_MapFilterReduce" />
+        <item itemvalue="Python.lesson_Decorators" />
+        <item itemvalue="Python.lesson_Closures" />
+        <item itemvalue="Python.lesson_CodeIntrospection" />
+        <item itemvalue="Python.lesson_Partial" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658211179529</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第三次提交 继续学习earnpython.org里的知识点">
+      <created>1658230190813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658230190813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +255,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交 继续学习python的爬虫和自动化测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交 继续学习python的爬虫和自动化测试" />
+    <MESSAGE value="第三次提交 继续学习earnpython.org里的知识点" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交 继续学习earnpython.org里的知识点" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
