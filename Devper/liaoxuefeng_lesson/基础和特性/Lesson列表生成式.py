@@ -17,7 +17,7 @@ print([m + n for m in 'ABC' for n in 'XYZ'])
 
 #列出当前目录下的所有文件和目录名
 import os # 导入os模块
-print([d for d in os.listdir('.')])  # os.listdir可以列出文件和目录
+print([d for d in os.listdir('..')])  # os.listdir可以列出文件和目录
 
 # 循环其实可以同时使用两个甚至多个变量，比如dict的items()可以同时迭代key和value：
 d = {'x': 'A', 'y': 'B', 'z': 'C' }
