@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1008c5b4-693b-4a0b-8337-76f5fbcce0e7" name="Changes" comment="第6次提交 完成「面相对象编程」的学习">
-      <change afterPath="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson1使用slots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson2使用@property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson3多重继承.py" afterDir="false" />
+    <list default="true" id="1008c5b4-693b-4a0b-8337-76f5fbcce0e7" name="Changes" comment="第6次提交 完成「面相对象高级编程」的学习">
+      <change afterPath="$PROJECT_DIR$/Devper/awesome-webapp/www/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/awesome-webapp/www/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/awesome-webapp/www/markdown2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/错误调试测试/lesson1错误处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/错误调试测试/lesson2调试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson5使用枚举类.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,109 +44,26 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/haokun/PycharmProjects/Dunpai/Devper/Lessons&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/haokun/PycharmProjects/Dunpai/Devper/awesome-webapp/www&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Devper/awesome-webapp/www" />
       <recent name="$PROJECT_DIR$/Devper/Lessons" />
       <recent name="$PROJECT_DIR$/Pytest/Lesson" />
       <recent name="$PROJECT_DIR$/Tester/test_case/Apitest" />
       <recent name="$PROJECT_DIR$/Devper/WebCrawler" />
-      <recent name="$PROJECT_DIR$/Tester/test_case" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/基础和特性" />
       <recent name="$PROJECT_DIR$/Devper/liaoxuefeng_lesson" />
       <recent name="$PROJECT_DIR$/Pytest" />
       <recent name="$PROJECT_DIR$/Tester/commom/Apitest" />
       <recent name="$PROJECT_DIR$/Tester" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lesson3多重继承">
-    <configuration name="Lesson04实例属性和类属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dunpai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象编程/Lesson04实例属性和类属性.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lesson1使用slots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dunpai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson1使用slots.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lesson继承和多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dunpai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象编程/Lesson继承和多态.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lesson2使用@property" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dunpai" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson2使用@property.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lesson2调试">
     <configuration name="Lesson3多重继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson类和实例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson5使用枚举类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象编程/Lesson类和实例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/面向对象高级编程/Lesson5使用枚举类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,6 +253,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/awesome-webapp/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/awesome-webapp/www/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson1错误处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/错误调试测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/错误调试测试/lesson1错误处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson2调试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dunpai" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/错误调试测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devper/liaoxuefeng_lesson/错误调试测试/lesson2调试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Dunpai" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -356,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson2调试" />
+        <item itemvalue="Python.lesson1错误处理" />
+        <item itemvalue="Python.Lesson5使用枚举类" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.Lesson3多重继承" />
-        <item itemvalue="Python.Lesson2使用@property" />
-        <item itemvalue="Python.Lesson1使用slots" />
-        <item itemvalue="Python.Lesson04实例属性和类属性" />
-        <item itemvalue="Python.Lesson继承和多态" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663925848477</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第6次提交 完成「面相对象高级编程」的学习">
+      <created>1663930216115</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663930216115</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +442,8 @@
     <MESSAGE value="第wu次提交 完成函数式编程的学习" />
     <MESSAGE value="第wu次提交 完成模块的学习" />
     <MESSAGE value="第6次提交 完成「面相对象编程」的学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="第6次提交 完成「面相对象编程」的学习" />
+    <MESSAGE value="第6次提交 完成「面相对象高级编程」的学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="第6次提交 完成「面相对象高级编程」的学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
